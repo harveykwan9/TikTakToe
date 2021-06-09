@@ -1,0 +1,5 @@
+/home/fr0da/Documents/Projects/TikTakToe/bin/Release/net5.0/publish/TikTakToe
+/home/fr0da/Documents/Projects/TikTakToe/bin/Release/net5.0/publish/TikTakToe.dll
+/home/fr0da/Documents/Projects/TikTakToe/bin/Release/net5.0/publish/TikTakToe.deps.json
+/home/fr0da/Documents/Projects/TikTakToe/bin/Release/net5.0/publish/TikTakToe.runtimeconfig.json
+/home/fr0da/Documents/Projects/TikTakToe/bin/Release/net5.0/publish/TikTakToe.pdb

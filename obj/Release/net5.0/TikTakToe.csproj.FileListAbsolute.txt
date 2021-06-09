@@ -1,0 +1,16 @@
+/home/fr0da/Documents/Projects/TikTakToe/bin/Release/net5.0/TikTakToe
+/home/fr0da/Documents/Projects/TikTakToe/bin/Release/net5.0/TikTakToe.deps.json
+/home/fr0da/Documents/Projects/TikTakToe/bin/Release/net5.0/TikTakToe.runtimeconfig.json
+/home/fr0da/Documents/Projects/TikTakToe/bin/Release/net5.0/TikTakToe.runtimeconfig.dev.json
+/home/fr0da/Documents/Projects/TikTakToe/bin/Release/net5.0/TikTakToe.dll
+/home/fr0da/Documents/Projects/TikTakToe/bin/Release/net5.0/ref/TikTakToe.dll
+/home/fr0da/Documents/Projects/TikTakToe/bin/Release/net5.0/TikTakToe.pdb
+/home/fr0da/Documents/Projects/TikTakToe/obj/Release/net5.0/TikTakToe.csprojAssemblyReference.cache
+/home/fr0da/Documents/Projects/TikTakToe/obj/Release/net5.0/TikTakToe.GeneratedMSBuildEditorConfig.editorconfig
+/home/fr0da/Documents/Projects/TikTakToe/obj/Release/net5.0/TikTakToe.AssemblyInfoInputs.cache
+/home/fr0da/Documents/Projects/TikTakToe/obj/Release/net5.0/TikTakToe.AssemblyInfo.cs
+/home/fr0da/Documents/Projects/TikTakToe/obj/Release/net5.0/TikTakToe.csproj.CoreCompileInputs.cache
+/home/fr0da/Documents/Projects/TikTakToe/obj/Release/net5.0/TikTakToe.dll
+/home/fr0da/Documents/Projects/TikTakToe/obj/Release/net5.0/ref/TikTakToe.dll
+/home/fr0da/Documents/Projects/TikTakToe/obj/Release/net5.0/TikTakToe.pdb
+/home/fr0da/Documents/Projects/TikTakToe/obj/Release/net5.0/TikTakToe.genruntimeconfig.cache
